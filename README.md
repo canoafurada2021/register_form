@@ -1,2 +1,2 @@
-# Tela de Login
-Tela de Login feita apenas com html e css para fins de aprendizado das ferramentas
+# Login application
+This project is a login screen made with html and css
